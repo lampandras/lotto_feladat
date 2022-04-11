@@ -1,4 +1,4 @@
-https://lampandras.github.io/lotto_feladat/
+https://lampandras.github.io/lotto_feladat/ <br>
 https://turristvanszakkozepisk-my.sharepoint.com/:x:/g/personal/peterdavid_turr_hu/EZVJRDaAgHlDqVP1melSdd0BJSyOdljSaRhjWVA_6wz1Ug Itt az excel
 # lotto_feladat
 # Sziasztok, ha valaki nem érti miért van ez a repo (dávid), ez a csoport feladatunk.
