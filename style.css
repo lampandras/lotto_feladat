@@ -2,7 +2,7 @@
     width:250px;
   }
   .menu a {
-    background-color: grey; 
+    background-color: #eee; 
     color: black; 
     display: block; 
     padding: 12px; 
@@ -10,10 +10,10 @@
   }
   
   .menu a {
-    background-color: grey; 
+    background-color: #ccc; 
   }
   
   .menu a.active {
-    background-color: grey; 
+    background-color: #04AA6D;  
     color: white;
   }
