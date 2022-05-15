@@ -1,7 +1,19 @@
-div {
-    background: #5c5c5b;
-    padding: 20px;
-}
-a {
-    color: #cacaca;
-}
+.menu{
+    width:250px;
+  }
+  .menu a {
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration:none; 
+  }
+  
+  .menu a {
+    background-color: grey; 
+  }
+  
+  .menu a.active {
+    background-color: grey; 
+    color: white;
+  }
