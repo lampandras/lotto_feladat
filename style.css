@@ -1,20 +1,20 @@
 .menu {
   height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 160px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
-  left: 0;
-  background-color: #111; /* Black */
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+  width: 260px; /* Set the width of the sidebar */
+/*   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+ *//*   z-index: 1; /* Stay on top */
+/*  */  top: 0; /* Stay at the top */
+/*  */  left: 0;
+ */  background-color: #111; /* Black */
+/*   overflow-x: hidden; /* Disable horizontal scroll */
+ */  padding-top: 20px;
 }
 
 /* The navigation menu links */
 .menu a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 15px;
   color: #818181;
   display: block;
 }
@@ -34,4 +34,9 @@
 @media screen and (max-height: 450px) {
   .menu {padding-top: 15px;}
   .menu a {font-size: 18px;}
+}
+
+
+img{
+  width: 350px;
 }
