@@ -23,13 +23,16 @@
   margin-left: 160px;
   padding: 0px 10px;
 }
-
 @media screen and (max-height: 450px) {
   .menu {padding-top: 15px;}
   .menu a {font-size: 18px;}
 }
 
+body{
+  font-style:arial;
+
 
 img{
   width: 350px;
+de817af66e3eb8ac08ef0da6adbbf5712f5c5fa3
 }
