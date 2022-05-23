@@ -3,7 +3,7 @@
   width: 350px;
   top: 0;
   left: 0;
-  background-color:#383836;
+  background-color:#484e54;
   padding-top: 20px;
 }
 
@@ -15,9 +15,9 @@
   color: #818181;
   display: block; 
 
-  color: #b6b6b6;
+  color: #ebeef2;
   display: block;
- 158226daacd0065141c28b0ec76a9f8669458e2f
+
 }
 
 .menu a:hover {
@@ -35,11 +35,11 @@
 
 body{
   font-style:arial;
-
+}
 
 img{
   width: 350px;
-de817af66e3eb8ac08ef0da6adbbf5712f5c5fa3
+
 }
 sorkepek{
     text-align:middle;
