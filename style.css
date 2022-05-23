@@ -11,8 +11,13 @@
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-size: 15px;
+
+  color: #818181;
+  display: block; 
+
   color: #b6b6b6;
   display: block;
+ 158226daacd0065141c28b0ec76a9f8669458e2f
 }
 
 .menu a:hover {
