@@ -17,3 +17,4 @@ Itt a sablon: https://github.com/green-fox-academy/http-info-syllabus/blob/maste
 ![imgonline-com-ua-ReplaceColor-WblnP2BiqyEsPCgh](https://user-images.githubusercontent.com/98745131/162686891-ffd4a0a4-cd21-431e-9bcb-070d7703faef.jpg)
 C:\Users\lampandras\lotto_feladat\Érdekes történetek.html
 ![Ötös lottó nyeremények összesen évente](https://user-images.githubusercontent.com/98745152/173228030-a512eb37-b26c-48d5-a902-a2e20b71bdd5.png)
+![Leggyakoribb számok grafikon](https://user-images.githubusercontent.com/98745152/173228089-c1d2db82-2c36-44e3-bec9-06f0413d69ed.png)
