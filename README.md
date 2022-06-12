@@ -18,3 +18,4 @@ Itt a sablon: https://github.com/green-fox-academy/http-info-syllabus/blob/maste
 C:\Users\lampandras\lotto_feladat\Érdekes történetek.html
 ![Ötös lottó nyeremények összesen évente](https://user-images.githubusercontent.com/98745152/173228030-a512eb37-b26c-48d5-a902-a2e20b71bdd5.png)
 ![Leggyakoribb számok grafikon](https://user-images.githubusercontent.com/98745152/173228089-c1d2db82-2c36-44e3-bec9-06f0413d69ed.png)
+![Számok gyakorisága](https://user-images.githubusercontent.com/98745152/173229382-eb6c5cdf-9b8f-4e4e-a92b-8971a9b74f08.png)
