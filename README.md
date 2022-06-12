@@ -16,3 +16,4 @@ Itt a sablon: https://github.com/green-fox-academy/http-info-syllabus/blob/maste
 ![imgonline-com-ua-ReplaceColor-CZcej40P80wn2b8](https://user-images.githubusercontent.com/98745131/162686884-d7cc5e58-77a9-495f-9262-62b4d731861f.jpg)
 ![imgonline-com-ua-ReplaceColor-WblnP2BiqyEsPCgh](https://user-images.githubusercontent.com/98745131/162686891-ffd4a0a4-cd21-431e-9bcb-070d7703faef.jpg)
 C:\Users\lampandras\lotto_feladat\Érdekes történetek.html
+![Leggyakoribb számok grafikon](https://user-images.githubusercontent.com/98745152/173227136-1698db11-3726-48f3-b957-3d554a554468.png)
